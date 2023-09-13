@@ -14,16 +14,19 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Schach spiel in unity und Visual Studio Code.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-
+Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wir haben uns gedacht, das Schach ein gutes Beispiel ist für Game-Design, weil man da viele Möglichkeiten hat es zu gestalten.
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Ich kann mit meinen Freunden spielen. | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde spielen. |
+| 2  | Design | Qualität | Als Spieler möchte ich ein gutes Design geniessen.|
+| 3  | Gestaltung | Qualität | Als ein Spieler möchte ich, dass das Programm eine gute Darstellung hat, damit es nicht Langweilig aussieht.|
+| 4  | Bewegung | Funktion | Als ein Spieler möchte ich, das man die figuren bewegen kann schieben kann, damit ich beim spielen schieben kann.|
+| 5  | Farben | Funktion | Als Spieler möchte ich, das es zwei verschiedene Figuren also Zwei Farben hat, damit ich unterscheiden kann, welche Figur zu wem gehört.|
+| 6  | Aufbau | Funktion | Es sollte ein normalen Aufbau eines Schachspieles haben.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
