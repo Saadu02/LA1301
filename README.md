@@ -22,12 +22,12 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Ich kann mit meinen Freunden spielen. | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde spielen. |
-| 2  | Design | Qualität | Als Spieler möchte ich ein gutes Design geniessen.|
-| 3  | Gestaltung | Qualität | Als ein Spieler möchte ich, dass das Programm eine gute Darstellung hat, damit es nicht Langweilig aussieht.|
-| 4  | Bewegung | Funktion | Als ein Spieler möchte ich, das man die figuren bewegen kann schieben kann, damit ich beim spielen schieben kann.|
-| 5  | Farben | Funktion | Als Spieler möchte ich, das es zwei verschiedene Figuren also Zwei Farben hat, damit ich unterscheiden kann, welche Figur zu wem gehört.|
-| 6  | Aufbau | Funktion | Es sollte ein normalen Aufbau eines Schachspieles haben.|
-| 7  | Eigenschaften | Funktion | Jede Schachfigur hat die Eigenschaften wie beim normalen Schach.|
+| 2  | kann gutes Design geniessen | Qualität | Als Spieler möchte ich ein gutes Design geniessen.|
+| 3  | kann gute Gestalltung haben | Qualität | Als ein Spieler möchte ich, dass das Programm eine gute Darstellung hat, damit es nicht Langweilig aussieht.|
+| 4  | Alle Figuren können sich Bewegung | Funktion | Als ein Spieler möchte ich, das man die figuren bewegen kann schieben kann, damit ich beim spielen schieben kann.|
+| 5  | Alle Figuren müssen verschiedene Farben haben | Funktion | Als Spieler möchte ich, das es zwei verschiedene Figuren also Zwei Farben hat, damit ich unterscheiden kann, welche Figur zu wem gehört.|
+| 6  | Der Aufbau muss normal sein | Funktion | Es sollte ein normalen Aufbau eines Schachspieles haben.|
+| 7  | Die Eigenschaften müssen normal sein | Funktion | Jede Schachfigur hat die Eigenschaften wie beim normalen Schach.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
