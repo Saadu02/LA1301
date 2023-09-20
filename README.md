@@ -1,8 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppe Schach: Sathana, Nicola, Carina, Ava
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -16,20 +14,21 @@
 
 Schach spiel in unity und Visual Studio Code.
 
-Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wir haben uns gedacht, das Schach ein gutes Beispiel ist für Game-Design, weil man da viele Möglichkeiten hat es zu gestalten.
+Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wir haben uns gedacht, dass Schach ein gutes Beispiel ist für Game-Design, weil man da viele Möglichkeiten hat es zu gestalten.
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Ich kann mit meinen Freunden spielen. | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde spielen. |
+| 1    | Ich kann mit meinen Freunden spielen. | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde zu spielen. |
 | 2  | kann gutes Design geniessen | Qualität | Als Spieler möchte ich ein gutes Design geniessen.|
 | 3  | kann gute Gestalltung haben | Qualität | Als ein Spieler möchte ich, dass das Programm eine gute Darstellung hat, damit es nicht Langweilig aussieht.|
 | 4  | Alle Figuren können sich Bewegung | Funktion | Als ein Spieler möchte ich, das man die figuren bewegen kann schieben kann, damit ich beim spielen schieben kann.|
 | 5  | Alle Figuren müssen verschiedene Farben haben | Funktion | Als Spieler möchte ich, das es zwei verschiedene Figuren also Zwei Farben hat, damit ich unterscheiden kann, welche Figur zu wem gehört.|
 | 6  | Der Aufbau muss normal sein | Funktion | Es sollte ein normalen Aufbau eines Schachspieles haben.|
 | 7  | Die Eigenschaften müssen normal sein | Funktion | Jede Schachfigur hat die Eigenschaften wie beim normalen Schach.|
+|8| Figuren nehmen| Funktion| Als Spieler möchte ich, dass die Figuren, wenn sie gefahren sind und eine andere Figur geschlagen haben, dass diese Figur vom Brett verschwindet und in meinen Count geht. |
+|9| Count| Qualität| Als User möchte ich, dass jedes Mal wenn ich eine Figur geschlagen habe, diese in meinen Count gelangt, damit ich sehen kann wieviele Figuren vom Gegner ich schon geschlagen habe.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
