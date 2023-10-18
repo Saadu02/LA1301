@@ -34,8 +34,11 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Spiel startet | klickt auf eine Figur | Figur wird ausgewählt |
+| 2.1  | Figur wurde ausgewählt | User klickt auf ein beliebigs Feld | Figur wird dorthin bewegt |
+| 3.1  | Figur wurde ausgewählt | User klickt auf ein Feld auf das die Figur sich nicht bewegen kann | Figur wird nicht bewegt |
+| 4.1  | Figur wird auf ein Feld gezogen | Spieler 1 setzt Spieler 2 in Schach | Schach wird angezeigt |
+| 5.1  | Der König kann sich nicht mehr auf ein Feld bewegen wo er nicht im Schach ist | | Schachmatt wird angezeigt |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
