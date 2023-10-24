@@ -22,23 +22,12 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 | 1    | Ich kann mit meinen Freunden spielen. | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde zu spielen. |
 | 2  | kann gutes Design geniessen | Qualität | Als Spieler möchte ich ein gutes Design geniessen.|
 | 3  | kann gute Gestalltung haben | Qualität | Als ein Spieler möchte ich, dass das Programm eine gute Darstellung hat, damit es nicht Langweilig aussieht.|
-| 4  | Alle Figuren können sich Bewegung | Funktion | Als ein Spieler möchte ich, das man die figuren bewegen kann schieben kann, damit ich beim spielen schieben kann.|
+| 4  | Alle Figuren können sich Bewegen | Funktion | Als ein Spieler möchte ich, das man die figuren bewegen kann schieben kann, damit ich beim spielen schieben kann.|
 | 5  | Alle Figuren müssen verschiedene Farben haben | Funktion | Als Spieler möchte ich, das es zwei verschiedene Figuren also Zwei Farben hat, damit ich unterscheiden kann, welche Figur zu wem gehört.|
 | 6  | Der Aufbau muss normal sein | Funktion | Es sollte ein normalen Aufbau eines Schachspieles haben.|
 | 7  | Die Eigenschaften müssen normal sein | Funktion | Jede Schachfigur hat die Eigenschaften wie beim normalen Schach.|
 |8| Figuren nehmen| Funktion| Als Spieler möchte ich, dass die Figuren, wenn sie gefahren sind und eine andere Figur geschlagen haben, dass diese Figur vom Brett verschwindet und in meinen Count geht. |
 |9| Count| Qualität| Als User möchte ich, dass jedes Mal wenn ich eine Figur geschlagen habe, diese in meinen Count gelangt, damit ich sehen kann wieviele Figuren vom Gegner ich schon geschlagen habe.|
-
-
-### 1.3 Testfälle
-
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  | Spiel startet | klickt auf eine Figur | Figur wird ausgewählt |
-| 2.1  | Figur wurde ausgewählt | User klickt auf ein beliebigs Feld | Figur wird dorthin bewegt |
-| 3.1  | Figur wurde ausgewählt | User klickt auf ein Feld auf das die Figur sich nicht bewegen kann | Figur wird nicht bewegt |
-| 4.1  | Figur wird auf ein Feld gezogen | Spieler 1 setzt Spieler 2 in Schach | Schach wird angezeigt |
-| 5.1  | Der König kann sich nicht mehr auf ein Feld bewegen wo er nicht im Schach ist | | Schachmatt wird angezeigt |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -50,14 +39,15 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 13.09.2023 | Carina | Design | 2x 45min |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
+| 2A  | 13.09.2023 | Carina | Design | 2x 45min |
+|  1A|  13.09     |    Nicola       |   zwei Spieler        |  45 min     |
+| 3.A |   1.11    |    Carina       |   Darstellung           |       90 min        |
+| 4.A |   18.10    |   Ava        |     Bewegung         |   50 min            |
+| 5.A  |   18.10    |   Ava        |    Zwei Parteien/Farbe          |  20 min         |
+| 6.A  |  18.10     |      Sathana     |       Aufbau der Figuren       |      60 min         |
+|7.A  |  1.11     |   Nicola/Sathana        |      Eigenschaften        |     70 min          |
+|8.A|   1.11    |     Alle      |      Nehmen        |       90 min        |
+|9.A| 1.11| Sathana| Count| 45 min|
 
 Total: 
 
