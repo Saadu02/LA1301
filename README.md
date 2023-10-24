@@ -47,7 +47,7 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 | 6.A  |  18.10     |      Sathana     |       Aufbau der Figuren       |      60 min         |
 |7.A  |  1.11     |   Nicola/Sathana        |      Eigenschaften        |     70 min          |
 |8.A|   1.11    |     Alle      |      Nehmen        |       90 min        |
-|9.A| 1.11| Sathana| Count| 45 min|
+|9.A| 1.11| Nicola| Count| 45 min|
 
 Total: 
 
