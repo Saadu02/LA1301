@@ -51,6 +51,11 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
+| 1.A | 13.09.2023 | Nicola | für Zwei Spieler erstellen | 45min |
+|      |      |            |              |                |
+|      |      |            |              |                |
+|      |      |            |              |                |
+|      |      |            |              |                |
 | 2A  | 13.09.2023 | Carina | Design | 2x 45min |
 |  1A|  13.09     |    Nicola       |   zwei Spieler        |  45 min     |
 | 3.A |   1.11    |    Carina       |   Darstellung           |       90 min        |
