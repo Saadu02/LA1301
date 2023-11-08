@@ -52,7 +52,7 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A | 13.09.2023 | Nicola | für Zwei Spieler erstellen | 45min |
-| 2.A | 13.09.2023 | Carina | Darstellung/ Dessigne | 2 x 45min |
+| 2.A | 13.09.2023 | Carina | Darstellung/ Design | 2 x 45min |
 | 3.A | 18.10.2023 | Ava & Nicola | Figuren Bewegung | 50 min|             |
 | 4.A | 18.10.2023 | Ava & Nicola | Zwei unterschiedlichkeit des Figurs | 20 min | |
 | 5.A | 18.10.2023 | Sathana | Schachregel | 60 min|
