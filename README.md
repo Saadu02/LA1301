@@ -4,17 +4,15 @@ Gruppe Schach: Sathana, Nicola, Carina, Ava
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 01.11.2023 | 0.0.1     | Projekt fertig erstellt.|
+| 01.11.2023 | 0.0.2     | Dokumentation fertig erstellt.|
+
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-In unseren projekt geht es um ein SchachSpiel mit ganz andere Figuren-darstellung. Die Spielregel sind normal wie die anderen Schachspiele. Man kann hier mit zwei Personen spielen. Person nummer 1 klickt ein Figur und es wird grün die Wege angezeigt, wohin er sein Figur schieben kann. Das gleiche passiert auch bei seinem Gegner. Ziel ist das
-
-
+In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurendarstellung, die von Carina Sutter erstellt wurde. Die Spielregeln sind normal, wie bei anderen Schachspielen. Man kann hier mit zwei Personen spielen. Person Nummer 1 klickt auf eine Figur, und es werden die möglichen Züge angezeigt, wohin er seine Figur bewegen kann. Das Gleiche passiert auch bei seinem Gegner. Das Ziel ist es, den Gegner möglichst zu schlagen. Es gibt auch einen Neustart-Button, nachdem man das Spiel beendet hat.
 
 ### 1.2 User Stories
 
@@ -72,7 +70,7 @@ Total:
 
 Schachspiel in Unity und Visual Studio.
 
-Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wir haben uns gedacht, dass Schach ein gutes Beispiel ist für Game-Design, weil man da viele Möglichkeiten hat es zu gestalten. Doch später haben wir entschieden mit Winforms zu programmieren, da es sehr schwierig war und Zeitlich für uns nicht reichte. 
+Wir möchten Unity näher kennenlernen und uns mit Game-Design vertraut machen. Ursprünglich dachten wir, dass Schach ein gutes Beispiel für Game-Design ist, weil es viele Möglichkeiten bietet, es zu gestalten. Allerdings haben wir später beschlossen, mit Winforms zu programmieren, da es für uns zeitlich schwierig wurde und nicht ausreichend Zeit zur Verfügung stand.
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
@@ -80,8 +78,16 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 1.11.2023 | Carina Sutter | 2x 45min |12x 45min |
-| ...  |       |           |               |                   |
+| 1.A  | 13.09.2023 | Nicola |45 min | 2x 45min |
+| 2.A  | 01.11.2023 | Carina | 2x 45min |12x 45min |
+| 3.A  | 18.10.2023 | Ava & Nicola | 50min | 3x 45min |
+| 4.A  | 18.10.2023 | Ava & Sathana | 20min | 2x 45min|
+| 5.A  | 19.10.2023 | Sathana | 60min | 2x 45min |
+| 6.A  | 01.11.2023 | Sathana | 70min | 3x 45min |
+| 7.A  | 01.11.2023 | Nicola | 90min | 2x 45min |
+| 8.A  | 01.11.2023 | Sathana | 45min | 50min |
+| 9.A  | 01.11.2023 | Nicola | 45min | 3x 45min |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
