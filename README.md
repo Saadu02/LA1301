@@ -37,12 +37,11 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | 1.1  | Spiel startet | Person 1 klickt ein Figur und bewegt sie. | Gegner ist dran.|
 | 3.1  | Spiel startet | Person 1 klickt ein Figur und wählt auf ein grünes Feld. | Figur bewegt sich.|
 | 5.1  | Spiel startet | Person 1 klickt den Turm (Zombie mit violette Hose und Erwachsen aussieht)| Der Turm kann nur Horizontal und Vertikal bewegen. |
-| 6.1  | Spiel startet | Person 1 klickt den Bauer ()Zombie mit violette Hose und wie Kinder aussieht.| kann nur zwei Schritt vorwärts bewegen|
+| 6.1  | Spiel startet | Person 1 klickt den Bauer (Zombie mit violette Hose und wie ein Kind aussieht.)| kann nur zwei Schritt vorwärts bewegen|
 | 7.1 | Spiel läuft | Person 1 klickt seine Figur auf den Gegner seine Figur. | Gegners Figur verschwindet.|
 | 8.1 | Spiel startet | Person 1 klickt sein Figur | Wege werden in grün angezeigt.|
 | 9.1 | Spiel beendet | Person 1 klickt Restart | Das Spiel wird neu gestartet.|
 | 9.1  | Spiel beendet | Person 1 klickt Exit | Das Spiel schliesst.|
-| 1.1  | Spiel startet | klickt auf eine Figur | Figur wird ausgewählt |
 
 ## 2 Planen
 
@@ -73,11 +72,11 @@ Wir möchten Unity näher kennenlernen und uns mit Game-Design vertraut machen. 
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 13.09.2023 | Nicola |45 min | 2x 45min |
+| 1.A  | 20.09.2023 | Nicola | 45 min | 2x 45min |
 | 2.A  | 01.11.2023 | Carina | 2x 45min |12x 45min |
 | 3.A  | 18.10.2023 | Ava & Nicola | 50min | 3x 45min |
-| 4.A  | 18.10.2023 | Ava & Sathana | 20min | 2x 45min|
-| 5.A  | 19.10.2023 | Sathana | 60min | 2x 45min |
+| 4.A  | 18.10.2023 | Ava & Nicola | 20min | 2x 45min|
+| 5.A  | 18.10.2023 | Sathana | 60min | 2x 45min |
 | 6.A  | 01.11.2023 | Sathana | 70min | 3x 45min |
 | 7.A  | 01.11.2023 | Nicola | 90min | 2x 45min |
 | 8.A  | 01.11.2023 | Sathana | 45min | 50min |
@@ -91,8 +90,15 @@ Wir möchten Unity näher kennenlernen und uns mit Game-Design vertraut machen. 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 01.11.2023 | OK | Sathana |
+| 3.1  | 01.11.2023 | OK | Sathana |
+| 5.1  | 01.11.2023 | OK | Sathana |
+| 6.1  | 01.11.2023 | OK | Sathana |
+| 7.1  | 01.11.2023 | OK | Sathana |
+| 8.1  | 01.11.2023 | OK | Sathana |
+| 9.1  | 01.11.2023 | OK | Sathana |
+| 9.1  | 01.11.2023 |          | Sathana |
+| ...  | 01.11.2023 |          | Sathana |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
