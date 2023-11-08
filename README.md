@@ -37,13 +37,13 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel startet | Person 1 klickt ein Figur und bewegt sie. | Gegner ist dran.|
-| 3.1  | Spiel startet | Person 1 klicht ein Figur und klickt auf ein grünes Feld. | Figur bewegt sich.|
+| 3.1  | Spiel startet | Person 1 klickt ein Figur und wählt auf ein grünes Feld. | Figur bewegt sich.|
 | 5.1  | Spiel startet | Person 1 klickt den Turm (Zombie mit violette Hose und Erwachsen aussieht)| Der Turm kann nur Horizontal und Vertikal bewegen. |
-| 6.1  | Spiel startet | Person 1 klickt den Bauer ()Zombie mit violette Hose und wie kinder aussieht.| kann nur zwei schritt vorwärt bewegen|
-| 7.1 | Spiel läuft | Person 1 klickt sein Figur auf das Gegner sein Figur. | Gegners Figur verschwindet.|
+| 6.1  | Spiel startet | Person 1 klickt den Bauer ()Zombie mit violette Hose und wie Kinder aussieht.| kann nur zwei Schritt vorwärts bewegen|
+| 7.1 | Spiel läuft | Person 1 klickt seine Figur auf den Gegner seine Figur. | Gegners Figur verschwindet.|
 | 8.1 | Spiel startet | Person 1 klickt sein Figur | Wege werden in grün angezeigt.|
-| 9.1 | Spiel beendet | Person 1 klickt restart | Das Spiel wird neu gestartet.|
-| 9.1  | Spiel beendet | Person 1 klickt exit | Das Spiel schliesst.|
+| 9.1 | Spiel beendet | Person 1 klickt Restart | Das Spiel wird neu gestartet.|
+| 9.1  | Spiel beendet | Person 1 klickt Exit | Das Spiel schliesst.|
 | 1.1  | Spiel startet | klickt auf eine Figur | Figur wird ausgewählt |
 
 
@@ -58,11 +58,11 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | 1.A | 13.09.2023 | Nicola | für Zwei Spieler erstellen | 45min |
 | 2.A | 13.09.2023 | Carina | Darstellung/ Design | 2 x 45min |
 | 3.A | 18.10.2023 | Ava & Nicola | Figuren Bewegung | 50 min|             |
-| 4.A | 18.10.2023 | Ava & Sathana | Zwei unterschiedlichkeit des Figurs | 20 min | |
+| 4.A | 18.10.2023 | Ava & Sathana | Zwei Untersciedlichkeit der Figur | 20 min | |
 | 5.A | 18.10.2023 | Sathana | Schachregel | 60 min|
 | 6.A | 01.11.2023 | Sathana | Figuren Eigenschaften | 70 min |
 | 7.A | 01.11.2023 | Nicola | Figuren verschwindet, nach dem sie geschlagen wurde.| 90min |
-| 8.A | 01.11.2023 | Sathana | man klickt ein Figur und es werden die richtungen in grün angezeigt. | 45 min|
+| 8.A | 01.11.2023 | Sathana | man klickt eien Figur und es werden die Richtungen  in grün angezeigt. | 45 min|
 | 9.A | 01.11.2023 | Nicola | Restart button | 45 min |
 
 Total: 
