@@ -28,8 +28,6 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | 8 | muss | Funktion| Als Spieler möchte ich, dass die Felder grün angezeigt werden, wenn ich ein Figur klicke, damit ich weiss in welche richtig mein Figur bewegen kann.|
 | 9 | muss | Funktion | Als Spieler möchte ich, nach dem ich das Spiel fertig gespielt habe, neu gestartet wird, damit ich das Spiel noch einmal spiele.|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 
 
 ### 1.3 Testfälle
@@ -65,19 +63,16 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | 8.A | 01.11.2023 | Sathana | man klickt eien Figur und es werden die Richtungen  in grün angezeigt. | 45 min|
 | 9.A | 01.11.2023 | Nicola | Restart button | 45 min |
 
-Total: 
+Total: 9
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
 Schachspiel in Unity und Visual Studio.
 
-Wir möchten Unity näher kennenlernen und uns mit Game-Design vertraut machen. Ursprünglich dachten wir, dass Schach ein gutes Beispiel für Game-Design ist, weil es viele Möglichkeiten bietet, es zu gestalten. Allerdings haben wir später beschlossen, mit Winforms zu programmieren, da es für uns zeitlich schwierig wurde und nicht ausreichend Zeit zur Verfügung stand.
+Wir möchten Unity näher kennenlernen und uns mit Game-Design vertraut machen. Ursprünglich dachten wir, dass Schach ein gutes Beispiel für Game-Design ist, weil es viele Möglichkeiten bietet, es zu gestalten. Allerdings haben wir später beschlossen, mit Winforms in Visual Studio zu programmieren, da es für uns zeitlich schwierig wurde und nicht ausreichend Zeit zur Verfügung stand.
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 ## 4 Realisieren
 
@@ -94,7 +89,6 @@ Wir möchten Unity näher kennenlernen und uns mit Game-Design vertraut machen. 
 | 9.A  | 01.11.2023 | Nicola | 45min | 3x 45min |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
