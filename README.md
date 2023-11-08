@@ -53,15 +53,12 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A | 13.09.2023 | Nicola | für Zwei Spieler erstellen | 45min |
 | 2.A | 13.09.2023 | Carina | Darstellung/ Dessigne | 2 x 45min |
-| 3.A | 18.10.2023 | Ava & Nicola | Figuren Bewegung | 50 min|
-| 5.A | 18.10.2023 | Ava & Nicola | Zwei unterschiedlichkeit des Figurs | 20 min | |
-| 6.A | 18.10.2023 | Sathana | Schachregel | 60 min|
-| 7.A | 01.11.2023 | Sathana | Figuren Eigenschaften | 70 min |
-| |      |            |              |                |
-|      |      |            |              |                |
-|      |      |            |              |                |
-|8.A|   1.11    |     Alle      |      Nehmen        |       90 min        |
-|9.A| 1.11| Nicola| Count| 45 min|
+| 3.A | 18.10.2023 | Ava & Nicola | Figuren Bewegung | 50 min|             |
+| 4.A | 18.10.2023 | Ava & Nicola | Zwei unterschiedlichkeit des Figurs | 20 min | |
+| 5.A | 18.10.2023 | Sathana | Schachregel | 60 min|
+| 6.A | 01.11.2023 | Sathana | Figuren Eigenschaften | 70 min |
+| 7.A | 01.11.2023 | Nicola | Figuren verschwindet, nach dem sie geschlagen wurde.| 90min |
+| 8.A | 01.11.2023 | Sathana| man klickt ein Figur und es werden die richtungen in grün angezeigt. | 45 min|
 
 Total: 
 
