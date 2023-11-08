@@ -20,11 +20,11 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1 | muss | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde zu spielen, damit ich schauen kann wer gewinnt. |
 | 2  | muss | Qualität | Als Spieler möchte ich, dass das Spiel ein gutes Darstellung hat, damit es nicht langweilig aussieht.|
-| 3  | muss | Funktion | Als ein Spieler möchte ich, das die figuren bewegen wenn ich sie bewege, damit das Spiel auch funktioniert.|
-| 4  | muss | Funktion | Als Spieler möchte ich, das die Hälfte der Figuren seperat sind, damit ich sehe, welche Figuren mir gehören und die ander hälfte den Gegner gehören.|
-| 5  | muss | Funktion | Als Spieler möchte ich, dass das Spiel an das Schachregel orientiert, damit es wirklich nach SchachSpiel ist.|
-| 6  | muss | Funktion | Als Spieler möchte ich, dass die Figuren unterschiedliche Eigenschaften/Bewegung haben, damit das spiel interessanter wirkt.|
-| 7 | muss| Funktion| Als Spieler möchte ich, wenn ich den Gegners Figur geschlagen habe, dass Figur auch verschwindet, weil am sonsten weiss man nicht wer gewonnen hat.|
+| 3  | muss | Funktion | Als ein Spieler möchte ich, das die Figuren bewegen wenn ich sie bewege, damit das Spiel auch funktioniert.|
+| 4  | muss | Funktion | Als Spieler möchte ich, das die Hälfte der Figuren separat sind, damit ich sehe, welche Figuren mir gehören und die andere Hälfte den Gegner gehören.|
+| 5  | muss | Funktion | Als Spieler möchte ich, dass das Spiel an das Schachregel orientiert, damit es wirklich nach Schachspiel  ist.|
+| 6  | muss | Funktion | Als Spieler möchte ich, dass die Figuren unterschiedliche Eigenschaften/Bewegung haben, damit das Spiel interessanter wirkt.|
+| 7 | muss| Funktion| Als Spieler möchte ich, wenn ich den Gegners Figur geschlagen habe, dass Figur auch verschwindet, weil ansonsten weiss man nicht wer gewonnen hat.|
 | 8 | muss | Funktion| Als Spieler möchte ich, dass die Felder grün angezeigt werden, wenn ich ein Figur klicke, damit ich weiss in welche richtig mein Figur bewegen kann.|
 | 9 | muss | Funktion | Als Spieler möchte ich, nach dem ich das Spiel fertig gespielt habe, neu gestartet wird, damit ich das Spiel noch einmal spiele.|
 
@@ -36,11 +36,16 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
+| 1.1  | Spiel startet | Person 1 klickt ein Figur und bewegt sie. | Gegner ist dran.|
+| 3.1  | Spiel startet | Person 1 klicht ein Figur und klickt auf ein grünes Feld. | Figur bewegt sich.|
+| 5.1  | Spiel startet | Person 1 klickt den Turm (Zombie mit violette Hose und Erwachsen aussieht)| Der Turm kann nur Horizontal und Vertikal bewegen. |
+| 6.1  | Spiel startet | Person 1 klickt den Bauer ()Zombie mit violette Hose und wie kinder aussieht.| kann nur zwei schritt vorwärt bewegen|
+| 7.1 | Spiel läuft | Person 1 klickt sein Figur auf das Gegner sein Figur. | Gegners Figur verschwindet.|
+| 8.1 | Spiel startet | Person 1 klickt sein Figur | Wege werden in grün angezeigt.|
+| 9.1 | Spiel beendet | Person 1 klickt restart | Das Spiel wird neu gestartet.|
+| 9.1  | Spiel beendet | Person 1 klickt exit | Das Spiel schliesst.|
 | 1.1  | Spiel startet | klickt auf eine Figur | Figur wird ausgewählt |
-| 2.1  | Figur wurde ausgewählt | User klickt auf ein beliebiges Feld | Figur wird dorthin bewegt |
-| 3.1  | Figur wurde ausgewählt | User klickt auf ein Feld auf das die Figur sich nicht bewegen kann | Figur wird nicht bewegt |
-| 4.1  | Figur wird auf ein Feld gezogen | Spieler 1 setzt Spieler 2 in Schach | Schach wird angezeigt |
-| 5.1  | Der König kann sich nicht mehr auf ein Feld bewegen wo er nicht im Schach ist | | Schachmatt wird angezeigt |
+
 
 ### 1.4 Diagramme
 
@@ -102,15 +107,3 @@ Wir möchten Unity näher kennenlernen und uns mit Game-Design vertraut machen. 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
