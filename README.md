@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-Gruppe Schach: Sathana, Nicola, Carina, Ava
+Gruppe Schach: Sathana Suganthasri, Nicola Karrer, Carina Sutter, Ava Hassani
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -97,8 +97,8 @@ Wir möchten Unity näher kennenlernen und uns mit Game-Design vertraut machen. 
 | 7.1  | 01.11.2023 | OK | Sathana |
 | 8.1  | 01.11.2023 | OK | Sathana |
 | 9.1  | 01.11.2023 | OK | Sathana |
-| 9.1  | 01.11.2023 |          | Sathana |
-| ...  | 01.11.2023 |          | Sathana |
+| 9.1  | 01.11.2023 | OK | Sathana |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
+Das Spiel wurde im HP Windows 11 Pro sowie auch asus vivobook Windows 11 getesten und funktioniert fehlerfrei.
 
