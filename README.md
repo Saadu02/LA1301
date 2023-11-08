@@ -12,22 +12,22 @@ Gruppe Schach: Sathana, Nicola, Carina, Ava
 
 ### 1.1 Ihr Projekt
 
-Schach spiel in unity und Visual Studio Code.
+Schachspiel in Unity und Visual Studio.
 
-Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wir haben uns gedacht, dass Schach ein gutes Beispiel ist für Game-Design, weil man da viele Möglichkeiten hat es zu gestalten.
+Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wir haben uns gedacht, dass Schach ein gutes Beispiel ist für Game-Design, weil man da viele Möglichkeiten hat es zu gestalten. Doch später haben wir entschieden mit Winforms zu programmieren, da es sehr schwierig war und Zeitlich für uns nicht reichte. 
+
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Ich kann mit meinen Freunden spielen. | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde zu spielen. |
-| 2  | kann gutes Design geniessen | Qualität | Als Spieler möchte ich ein gutes Design geniessen.|
-| 3  | kann gute Gestalltung haben | Qualität | Als ein Spieler möchte ich, dass das Programm eine gute Darstellung hat, damit es nicht Langweilig aussieht.|
-| 4  | Alle Figuren können sich Bewegen | Funktion | Als ein Spieler möchte ich, das man die figuren bewegen kann schieben kann, damit ich beim spielen schieben kann.|
-| 5  | Alle Figuren müssen verschiedene Farben haben | Funktion | Als Spieler möchte ich, das es zwei verschiedene Figuren also Zwei Farben hat, damit ich unterscheiden kann, welche Figur zu wem gehört.|
-| 6  | Der Aufbau muss normal sein | Funktion | Es sollte ein normalen Aufbau eines Schachspieles haben.|
-| 7  | Die Eigenschaften müssen normal sein | Funktion | Jede Schachfigur hat die Eigenschaften wie beim normalen Schach.|
-|8| Figuren nehmen| Funktion| Als Spieler möchte ich, dass die Figuren, wenn sie gefahren sind und eine andere Figur geschlagen haben, dass diese Figur vom Brett verschwindet und in meinen Count geht. |
-|9| Count| Qualität| Als User möchte ich, dass jedes Mal wenn ich eine Figur geschlagen habe, diese in meinen Count gelangt, damit ich sehen kann wieviele Figuren vom Gegner ich schon geschlagen habe.|
+| 1    | muss | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde zu spielen, damit ich schauen kann wer gewinnt. |
+| 2  | muss | Qualität | Als Spieler möchte ich, dass das Spiel ein gutes Darstellung hat, damit es nicht langweilig aussieht.|
+| 4  | muss | Funktion | Als ein Spieler möchte ich, das die figuren bewegen wenn ich sie bewege, damit das Spiel auch funktioniert.|
+| 5  | muss | Funktion | Als Spieler möchte ich, das die Hälfte der Figuren seperat sind, damit ich sehe, welche Figuren mir gehören und die ander hälfte den Gegner gehören.|
+| 6  | muss | Funktion | Als Spieler möchte ich, dass das Spiel an das Schachregel orientiert, damit es wirklich nach SchachSpiel ist.|
+| 7  | muss | Funktion | Als Spieler möchte ich, dass die Figuren unterschiedliche Eigenschaften/Bewegung haben, damit das spiel interessanter wirkt.|
+|8| muss| Funktion| Als Spieler möchte ich, wenn ich den Gegners Figur geschlagen habe, dass Figur auch verschwindet, weil am sonsten weiss man nicht wer gewonnen hat.|
+|9| muss | funktion| Als Spieler möchte ich, dass die Felder grün angezeigt werden, wenn ich ein Figur klicke, damit ich weiss in welche richtig mein Figur bewegen kann.|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
