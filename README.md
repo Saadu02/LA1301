@@ -22,12 +22,12 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | muss | Funktion | Als ein Spieler möchte ich die Möglichkeit haben, gegen meine Freunde zu spielen, damit ich schauen kann wer gewinnt. |
 | 2  | muss | Qualität | Als Spieler möchte ich, dass das Spiel ein gutes Darstellung hat, damit es nicht langweilig aussieht.|
-| 4  | muss | Funktion | Als ein Spieler möchte ich, das die figuren bewegen wenn ich sie bewege, damit das Spiel auch funktioniert.|
-| 5  | muss | Funktion | Als Spieler möchte ich, das die Hälfte der Figuren seperat sind, damit ich sehe, welche Figuren mir gehören und die ander hälfte den Gegner gehören.|
-| 6  | muss | Funktion | Als Spieler möchte ich, dass das Spiel an das Schachregel orientiert, damit es wirklich nach SchachSpiel ist.|
-| 7  | muss | Funktion | Als Spieler möchte ich, dass die Figuren unterschiedliche Eigenschaften/Bewegung haben, damit das spiel interessanter wirkt.|
-|8| muss| Funktion| Als Spieler möchte ich, wenn ich den Gegners Figur geschlagen habe, dass Figur auch verschwindet, weil am sonsten weiss man nicht wer gewonnen hat.|
-|9| muss | funktion| Als Spieler möchte ich, dass die Felder grün angezeigt werden, wenn ich ein Figur klicke, damit ich weiss in welche richtig mein Figur bewegen kann.|
+| 3  | muss | Funktion | Als ein Spieler möchte ich, das die figuren bewegen wenn ich sie bewege, damit das Spiel auch funktioniert.|
+| 4  | muss | Funktion | Als Spieler möchte ich, das die Hälfte der Figuren seperat sind, damit ich sehe, welche Figuren mir gehören und die ander hälfte den Gegner gehören.|
+| 5  | muss | Funktion | Als Spieler möchte ich, dass das Spiel an das Schachregel orientiert, damit es wirklich nach SchachSpiel ist.|
+| 6  | muss | Funktion | Als Spieler möchte ich, dass die Figuren unterschiedliche Eigenschaften/Bewegung haben, damit das spiel interessanter wirkt.|
+| 7 | muss| Funktion| Als Spieler möchte ich, wenn ich den Gegners Figur geschlagen habe, dass Figur auch verschwindet, weil am sonsten weiss man nicht wer gewonnen hat.|
+| 8 | muss | funktion| Als Spieler möchte ich, dass die Felder grün angezeigt werden, wenn ich ein Figur klicke, damit ich weiss in welche richtig mein Figur bewegen kann.|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -52,17 +52,14 @@ Wir möchten Untiy näher kennenlernen und in Kontakt kommen mit Game-Design. Wi
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A | 13.09.2023 | Nicola | für Zwei Spieler erstellen | 45min |
+| 2.A | 13.09.2023 | Carina | Darstellung/ Dessigne | 2 x 45min |
+| 3.A | 18.10.2023 | Ava & Nicola | Figuren Bewegung | 50 min|
+| 5.A | 18.10.2023 | Ava & Nicola | Zwei unterschiedlichkeit des Figurs | 20 min | |
+| 6.A | 18.10.2023 | Sathana | Schachregel | 60 min|
+| 7.A | 01.11.2023 | Sathana | Figuren Eigenschaften | 70 min |
+| |      |            |              |                |
 |      |      |            |              |                |
 |      |      |            |              |                |
-|      |      |            |              |                |
-|      |      |            |              |                |
-| 2A  | 13.09.2023 | Carina | Design | 2x 45min |
-|  1A|  13.09     |    Nicola       |   zwei Spieler        |  45 min     |
-| 3.A |   1.11    |    Carina       |   Darstellung           |       90 min        |
-| 4.A |   18.10    |   Ava        |     Bewegung         |   50 min            |
-| 5.A  |   18.10    |   Ava        |    Zwei Parteien/Farbe          |  20 min         |
-| 6.A  |  18.10     |      Sathana     |       Aufbau der Figuren       |      60 min         |
-|7.A  |  1.11     |   Nicola/Sathana        |      Eigenschaften        |     70 min          |
 |8.A|   1.11    |     Alle      |      Nehmen        |       90 min        |
 |9.A| 1.11| Nicola| Count| 45 min|
 
