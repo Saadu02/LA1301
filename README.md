@@ -44,11 +44,6 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | 9.1  | Spiel beendet | Person 1 klickt Exit | Das Spiel schliesst.|
 | 1.1  | Spiel startet | klickt auf eine Figur | Figur wird ausgewählt |
 
-
-### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
-
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
