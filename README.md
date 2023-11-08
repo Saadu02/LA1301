@@ -22,7 +22,7 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | 2  | muss | Qualität | Als Spieler möchte ich, dass das Spiel ein gutes Darstellung hat, damit es nicht langweilig aussieht.|
 | 3  | muss | Funktion | Als ein Spieler möchte ich, das die Figuren bewegen wenn ich sie bewege, damit das Spiel auch funktioniert.|
 | 4  | muss | Funktion | Als Spieler möchte ich, das die Hälfte der Figuren separat sind, damit ich sehe, welche Figuren mir gehören und die andere Hälfte den Gegner gehören.|
-| 5  | muss | Funktion | Als Spieler möchte ich, dass das Spiel an das Schachregel orientiert, damit es wirklich nach Schachspiel  ist.|
+| 5  | muss | Funktion | Als Spieler möchte ich, dass das Spiel an das Schachregel orientiert, damit es wirklich nach Schachspiel ist.|
 | 6  | muss | Funktion | Als Spieler möchte ich, dass die Figuren unterschiedliche Eigenschaften/Bewegung haben, damit das Spiel interessanter wirkt.|
 | 7 | muss| Funktion| Als Spieler möchte ich, wenn ich den Gegners Figur geschlagen habe, dass Figur auch verschwindet, weil ansonsten weiss man nicht wer gewonnen hat.|
 | 8 | muss | Funktion| Als Spieler möchte ich, dass die Felder grün angezeigt werden, wenn ich ein Figur klicke, damit ich weiss in welche richtig mein Figur bewegen kann.|
@@ -36,12 +36,12 @@ In unserem Projekt geht es um ein Schachspiel mit einer völlig anderen Figurend
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel startet | Person 1 klickt ein Figur und bewegt sie. | Gegner ist dran.|
 | 3.1  | Spiel startet | Person 1 klickt ein Figur und wählt auf ein grünes Feld. | Figur bewegt sich.|
-| 5.1  | Spiel startet | Person 1 klickt den Turm (Zombie mit violette Hose und Erwachsen aussieht)| Der Turm kann nur Horizontal und Vertikal bewegen. |
-| 6.1  | Spiel startet | Person 1 klickt den Bauer (Zombie mit violette Hose und wie ein Kind aussieht.)| kann nur zwei Schritt vorwärts bewegen|
+| 5.1  | Spiel startet | Person 1 klickt den Turm (Zombie mit violette Hose und Erwachsen aussieht).| Der Turm kann nur Horizontal und Vertikal bewegen. |
+| 6.1  | Spiel startet | Person 1 klickt den Bauer (Zombie mit violette Hose und wie ein Kind aussieht.)| kann nur zwei Schritt vorwärts bewegen.|
 | 7.1 | Spiel läuft | Person 1 klickt seine Figur auf den Gegner seine Figur. | Gegners Figur verschwindet.|
-| 8.1 | Spiel startet | Person 1 klickt sein Figur | Wege werden in grün angezeigt.|
-| 9.1 | Spiel beendet | Person 1 klickt Restart | Das Spiel wird neu gestartet.|
-| 9.1  | Spiel beendet | Person 1 klickt Exit | Das Spiel schliesst.|
+| 8.1 | Spiel startet | Person 1 klickt sein Figur. | Wege werden in grün angezeigt.|
+| 9.1 | Spiel beendet | Person 1 klickt Restart. | Das Spiel wird neu gestartet.|
+| 9.1  | Spiel beendet | Person 1 klickt Exit. | Das Spiel schliesst.|
 
 ## 2 Planen
 
